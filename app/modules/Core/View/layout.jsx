@@ -1,0 +1,20 @@
+<html>
+<head>
+	<title></title>
+</head>
+<body>
+<table>
+<tbody>
+	<tr>
+		<td>{self.getChildHtml('header')}</td>
+	</tr>
+	<tr>
+		<td>{self.getChildHtml('content')}</td>
+	</tr>
+	<tr>
+		<td>{self.getChildHtml('footer')}</td>
+	</tr>
+</tbody>
+</table>
+</body>
+</html>

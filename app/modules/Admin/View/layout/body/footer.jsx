@@ -1,0 +1,1 @@
+<div>In footer html</div>
